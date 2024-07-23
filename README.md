@@ -6,9 +6,9 @@ This is a sample plugin for Obsidian (https://obsidian.md).
 
 ## Usage
 
-- Open the `Command palette` (https://help.obsidian.md/Plugins/Command+palette)
-- Search for the `Sample` command
-- Press <kbd>Enter</kbd>
+1. Open the `Command palette` (https://help.obsidian.md/Plugins/Command+palette).
+2. Search for the `Sample` command.
+3. Press <kbd>Enter</kbd>.
 
 ## Contributing
 
