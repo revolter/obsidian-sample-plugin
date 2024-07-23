@@ -12,6 +12,12 @@ This is a sample plugin for Obsidian (https://obsidian.md).
 
 ## Contributing
 
+### Setup
+
+1. Go to [settings/actions](../../settings/actions).
+2. Enable `Read and write permissions` under `Workflow permissions`.
+3. Click `Save`.
+
 ### Installation
 
 1. Install `Node.js` by following the instructions from
